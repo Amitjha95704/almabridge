@@ -1,0 +1,7 @@
+package com.almabridge.enums;
+
+public enum WorkMode {
+    ONSITE,
+    REMOTE,
+    HYBRID
+}
